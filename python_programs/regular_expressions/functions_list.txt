@@ -1,0 +1,26 @@
+re.search(pattern, string_to_use)
+returns --> match_object or None
+
+
+
+
+
+re.finall(pattern, string_to_use)
+returns --> list of matched string or None
+
+
+
+
+
+temp_str = "we neeed to inform him with latest information"
+iterator = re.finditer("inform", temp_str)
+print(iterator)
+for i in iterator:
+    print(i.span())
+'''
+OUTPUT
+-----
+<callable_iterator object at 0x01E23190>
+(12, 18)
+(35, 41)
+'''
