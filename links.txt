@@ -1,0 +1,10 @@
+Regular expressions
+https://youtu.be/zN8rwVXwRUE
+
+
+
+
+
+
+Generating and setting SSH keys
+https://youtu.be/WgZIv5HI44o
