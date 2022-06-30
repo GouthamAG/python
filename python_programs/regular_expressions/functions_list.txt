@@ -24,3 +24,19 @@ OUTPUT
 (12, 18)
 (35, 41)
 '''
+
+
+
+
+# ###---------------------------re.compile------------------------------------
+str_ = "hat rat mat pat"
+pattern_object = re.compile("[r]at")
+print(pattern_object)
+food = pattern_object.sub("food", str_)
+print(food)
+'''
+# OUTPUT
+# -----
+re.compile('[r]at')
+hat food mat pat
+'''

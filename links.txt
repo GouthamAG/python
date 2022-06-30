@@ -8,3 +8,12 @@ https://youtu.be/zN8rwVXwRUE
 
 Generating and setting SSH keys
 https://youtu.be/WgZIv5HI44o
+
+
+
+
+
+
+
+Hackerrank programs
+https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation
